@@ -1,11 +1,19 @@
-# 📸 PhotoAlbum Creator Pro
+# 📸 PhotoAlbum Creator Pro [BETA Έκδοση]
 
-**Έκδοση:** 1.0.0 &bull; **Δημιουργός:** [Λέων Προκόπης (plarg.gr)](https://plarg.gr) &bull; [📘 Αναλυτικό Εγχειρίδιο Χρήστη (MANUAL.md)](./docs/MANUAL.md)
+**Έκδοση:** 1.0.1 [BETA] &bull; **Δημιουργός:** [Λέων Προκόπης (plarg.gr)](https://plarg.gr) &bull; [📘 Αναλυτικό Εγχειρίδιο Χρήστη (MANUAL.md)](./docs/MANUAL.md)
 
-[![Latest Release](https://img.shields.io/github/v/release/pliroforikos/myPhotoAlbum-releases?style=for-the-badge&color=0078d4&label=%CE%88%CE%BA%CE%B4%CE%BF%CF%83%CE%B7)](https://github.com/pliroforikos/myPhotoAlbum-releases/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/pliroforikos/myPhotoAlbum-releases?style=for-the-badge&color=e37d00&label=%CE%88%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%20BETA)](https://github.com/pliroforikos/myPhotoAlbum-releases/releases/latest)
 [![Platform Windows](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows)](https://github.com/pliroforikos/myPhotoAlbum-releases/releases/latest)
 [![Privacy 100% Offline](https://img.shields.io/badge/Privacy-100%25%20Offline%20%26%20Local-success?style=for-the-badge&logo=shield)](https://github.com/pliroforikos/myPhotoAlbum-releases)
 [![Portable App](https://img.shields.io/badge/Distribution-Portable%20(No%20Install)-orange?style=for-the-badge)](https://github.com/pliroforikos/myPhotoAlbum-releases/releases/latest)
+
+> ⚠️ **ΣΗΜΕΙΩΣΗ ΕΚΔΟΣΗΣ BETA (v1.0.1 BETA):**
+> Η παρούσα έκδοση αποτελεί **δοκιμαστική έκδοση προεπισκόπησης (Beta Release)**. Φέρει εμφανή ένδειξη **«BETA Έκδοση»** στο επάνω μέρος της εφαρμογής και περιλαμβάνει τη νέα αρχιτεκτονική διαχείρισης μνήμης (IndexedDB Storage & Progressive Lazy Loading) για ομαλή επεξεργασία 350+ φωτογραφιών χωρίς καταπόνηση της RAM.
+> **Οδηγίες χρήσης Beta:**
+> 1. Κατεβάστε το εκτελέσιμο αρχείο παρακάτω.
+> 2. Εκτελέστε το απευθείας — δεν απαιτείται εγκατάσταση (Portable).
+> 3. Δοκιμάστε να εισαγάγετε μεγάλο όγκο φωτογραφιών (π.χ. 300+ φωτογραφίες) και να συνθέσετε τις σελίδες σας.
+> 4. Εάν παρατηρήσετε οποιαδήποτε δυσλειτουργία, παρακαλούμε αναφέρετέ την ώστε να διορθωθεί στην τελική έκδοση.
 
 Μια σύγχρονη, επαγγελματική εφαρμογή σχεδίασης και παραγωγής φωτογραφικών λευκωμάτων (**Photobooks** & **Scrapbooks**) για **Windows**, σχεδιασμένη με περιβάλλον εργασίας τύπου **MS Office Ribbon**, πλήρη τοπική επεξεργασία (**100% Offline & Ιδιωτικότητα - μηδενική διαρροή φωτογραφιών στο διαδίκτυο**), υποστήριξη αντικρυστών σαλονιών 2 σελίδων (**2-Page Spreads**), έξυπνα κενά πλαίσια (**Placeholders**), κλείδωμα στοιχείων και σελίδων, αυτόματο εντοπισμό διπλότυπων λήψεων και εξαγωγή σε **εκτυπώσιμο PDF Υψηλής Ανάλυσης (300 DPI)**.
 
@@ -15,7 +23,7 @@
 
 | Αρχείο | Τύπος | Μέγεθος | Περιγραφή |
 | :--- | :--- | :--- | :--- |
-| [**PhotoAlbumCreator-Portable.exe**](https://github.com/pliroforikos/myPhotoAlbum-releases/releases/latest/download/PhotoAlbumCreator-Portable.exe) | **Portable (.exe)** | ~115 MB | **Έτοιμο για άμεση εκτέλεση.** Δεν απαιτεί καμία εγκατάσταση. Τρέχει άμεσα από οποιονδήποτε φάκελο ή USB stick. |
+| [**PhotoAlbumCreator-Portable.exe**](https://github.com/pliroforikos/myPhotoAlbum-releases/releases/latest/download/PhotoAlbumCreator-Portable.exe) | **Portable (.exe)** | ~115 MB | **Beta Έκδοση v1.0.1 - Έτοιμο για άμεση εκτέλεση.** Δεν απαιτεί καμία εγκατάσταση. Τρέχει άμεσα από οποιονδήποτε φάκελο ή USB stick. |
 
 ---
 
