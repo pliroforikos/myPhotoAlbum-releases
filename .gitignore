@@ -1,0 +1,8 @@
+# Binaries (distributed via GitHub Releases, not git repo)
+*.exe
+*.zip
+*.tar.gz
+dist/
+node_modules/
+.DS_Store
+Thumbs.db
